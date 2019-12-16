@@ -1,0 +1,20 @@
+body{background-color: #FFEDED; 
+
+	padding: 5em;
+font-size: 2em;
+font-family: 'Arvo', serif;}
+
+h1,h2,h3{text-align: center;}
+
+h2{color: #EE7399;}
+h1,h3{color: #1C8F26;}
+p{color: #3E4563;}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+padding: 1em;}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
